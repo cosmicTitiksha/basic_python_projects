@@ -42,6 +42,20 @@ Welcome to my Python playground — a growing collection of real-world Python pr
 
 ---
 
+### 🔢 Number Guessing Game
+> A terminal-based interactive number guessing game using randomness and loop logic.
+
+- Randomly generates a number between 0 and 100  
+- Prompts the user to guess until the correct number is entered  
+- Gives hints like “Think Higher” or “Think Lower” after each incorrect guess  
+- Counts number of attempts and displays it on success  
+- Built using:
+  - `random.randint()` for number generation  
+  - `while` loop for repeated input  
+  - Functions for clean separation of logic
+
+---
+
 ## 🚧 Upcoming Projects (Planned)
 
 _(Coming soon — stay tuned...)_
