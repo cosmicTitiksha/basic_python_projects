@@ -56,6 +56,26 @@ Welcome to my Python playground — a growing collection of real-world Python pr
 
 ---
 
+### 📝 Task Manager CLI
+> A simple task manager created from scratch to manage thoughts like a to-do app in the terminal.
+
+- Asks the user how many tasks they have in mind
+- Repeats the following for each task:
+  - Prompts to `add`, `view`, or `remove` a task
+  - `add`: Accepts custom task input and appends it to the list  
+  - `view`: Prints all current tasks (line-by-line)
+  - `remove`: Deletes a task by index (entered by user)
+- Uses:
+  - `for` loop for controlling task interaction count  
+  - `list.append()` for storing tasks dynamically  
+  - `del` keyword for index-based deletion  
+  - `input().lower()` for case-insensitive command handling
+- Includes basic invalid input handling
+
+🧠 This project helped solidify list manipulation, loops, and conditional command execution in Python.
+
+---
+
 ## 🚧 Upcoming Projects (Planned)
 
 _(Coming soon — stay tuned...)_
