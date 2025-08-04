@@ -76,6 +76,20 @@ Welcome to my Python playground — a growing collection of real-world Python pr
 
 ---
 
+## 🎲 Dice Roller Simulator
+
+A simple text-based dice rolling simulator that:
+- Prompts the user to roll a die.
+- Displays a number between 1–6 using Python's `random` module.
+- Repeats until the user decides to stop.
+- Handles invalid inputs gracefully.
+
+**Technologies:** Python (beginner-friendly)
+
+> Try it: Run `dice_simulator.py` and type `yes` or `no` to roll or quit.
+
+
+
 ## 🚧 Upcoming Projects (Planned)
 
 _(Coming soon — stay tuned...)_
