@@ -76,7 +76,7 @@ Welcome to my Python playground — a growing collection of real-world Python pr
 
 ---
 
-## 🎲 Dice Roller Simulator
+### 🎲 Dice Roller Simulator
 
 A simple text-based dice rolling simulator that:
 - Prompts the user to roll a die.
@@ -88,7 +88,19 @@ A simple text-based dice rolling simulator that:
 
 > Try it: Run `dice_simulator.py` and type `yes` or `no` to roll or quit.
 
+---
 
+### 🕒 Simple Digital Clock using Python & Tkinter
+
+This is a beginner-friendly Python project that creates a simple digital clock using the Tkinter GUI library.
+
+## 📌 Features
+- Displays the current time in HH:MM:SS format
+- Updates every second
+- Simple and clean UI
+- Customizable fonts and colors
+
+---
 
 ## 🚧 Upcoming Projects (Planned)
 
