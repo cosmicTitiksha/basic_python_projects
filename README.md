@@ -102,6 +102,21 @@ This is a beginner-friendly Python project that creates a simple digital clock u
 
 ---
 
+### 🌡️ Celsius ↔️ Fahrenheit Converter
+
+A light-hearted temperature converter built with Python!  
+Ever wondered what Gabriel Fahrenheit or Anders Celsius might say about your room temperature?  
+Well, now you can find out — with style.
+
+## 🚀 Features
+
+- Convert from **Celsius to Fahrenheit** or **Fahrenheit to Celsius**
+- Whimsical outputs inspired by the original creators
+- Friendly messages (unless you mess up 😏)
+
+---
+
+
 ## 🚧 Upcoming Projects (Planned)
 
 _(Coming soon — stay tuned...)_
