@@ -117,6 +117,19 @@ Well, now you can find out — with style.
 ---
 
 
+### 💱 Currency Converter (Python)
+
+A simple currency converter built in Python using the `forex-python` library. It takes input from the user to convert a specified amount from one currency to another using real-time exchange rates.
+
+### 🚀 Features
+
+- Convert between any two international currencies
+- Uses live exchange rates
+- Clean and simple CLI interface
+
+---
+
+
 ## 🚧 Upcoming Projects (Planned)
 
 _(Coming soon — stay tuned...)_
