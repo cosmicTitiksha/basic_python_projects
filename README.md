@@ -129,12 +129,22 @@ A simple currency converter built in Python using the `forex-python` library. It
 
 ---
 
+### BMI Calculator 🧮
 
-## 🚧 Upcoming Projects (Planned)
+This is a simple Python program that calculates your **Body Mass Index (BMI)** based on your height and weight. It helps you understand whether your body weight is underweight, normal, overweight, or obese.
 
-_(Coming soon — stay tuned...)_
+### 📋 Categories
+
+| BMI Range       | Category       |
+|-----------------|----------------|
+| Below 18.5      | Underweight    |
+| 18.5 – 24.9     | Normal Weight  |
+| 25 – 29.9       | Overweight     |
+| 30 and above    | Obese          |
 
 ---
+
+
 
 ## 📌 About This Repository
 
