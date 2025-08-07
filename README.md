@@ -144,6 +144,17 @@ This is a simple Python program that calculates your **Body Mass Index (BMI)** b
 
 ---
 
+### 🔐 Random Password Generator (Python)
+
+This is a simple Python script that generates a **secure random password** containing letters, numbers, and special characters using Python’s built-in `random` module.
+
+
+- Generates a password of any desired length
+- Includes lowercase, uppercase, digits, and special characters
+- Uses `random.choices()` for randomness (with replacement)
+- Fast and beginner-friendly
+
+---
 
 
 ## 📌 About This Repository
