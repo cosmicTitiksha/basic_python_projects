@@ -62,3 +62,9 @@ def Q1(score):
 
 # First function call
 final_score = Q1(score)
+
+# Wanna play again section
+query = input("Wanna play again? (Y/N): ").upper()
+if query == 'Y':
+  score = 0 
+  final_score = Q1(score)
