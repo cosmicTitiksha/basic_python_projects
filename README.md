@@ -1,4 +1,4 @@
-# 🐍 Python Projects by Titiksha
+# 🐍 basic_python_projects by Titiksha
 
 Welcome to my Python playground — a growing collection of real-world Python projects built to sharpen my problem-solving, logic-building, and software development skills.
 
