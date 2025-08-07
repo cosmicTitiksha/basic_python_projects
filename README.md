@@ -156,6 +156,19 @@ This is a simple Python script that generates a **secure random password** conta
 
 ---
 
+### 🧠 Console-Based Quiz App (Computer Science & Astronomy)
+
+A beginner-friendly Python quiz application with 5 multiple choice questions (MCQs) from **Computer Science** and **Astronomy**.  
+The game tracks your score in real-time and offers an option to replay after completion.
+
+
+- 5 fixed MCQ questions
+- Real-time scoring
+- Validated input (A/B/C/D)
+- Score out of 5 displayed at the end
+- Option to replay the quiz
+
+---
 
 ## 📌 About This Repository
 
